@@ -1,6 +1,4 @@
-## Hola, I'm [Pawan Kumar!](https://pawan.live) 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+## Welcome to [Clarence2810](https://github.com/Clarence2810) Github! 👋
 
 <a href="https://github.com/Clarence2810">
   <img align="left" alt="Clarence2810's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
