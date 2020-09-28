@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I spend 7 weeks to sleep idk how
 
 [![GitHub Clarence2810](https://img.shields.io/github/followers/Clarence2810?label=follow&style=social)](https://github.com/Clarence2810)
-[![Discord Server](https://img.shields.io/badge/SaicoMC-2648ff?style=flat-square&logo=google-discord)]https://discord.gg/Ad2uDSp)
+[![Discord Server](https://img.shields.io/badge/SaicoMC-2648ff?style=flat-square&logo=google-discord)](https://discord.gg/Ad2uDSp)
 
 <a href="https://github.com/Clarence2810">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarence2810&theme=dark&hide_langs_below=1" />
