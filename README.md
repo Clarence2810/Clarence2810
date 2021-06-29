@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [SaicoMC](https://discord.gg/Ad2uDSp).
 - 🌱 I’m currently learning more about Hypertext Preprocessor.
-- 😄 I Like: You (; (SIMP)
+- 😇 I'm gonna do what my father's dream for us
 - ⚡ Fun fact: I spend 7 weeks to sleep idk how
 
 [![GitHub Clarence2810](https://img.shields.io/github/followers/Clarence2810?label=follow&style=social)](https://github.com/Clarence2810)
