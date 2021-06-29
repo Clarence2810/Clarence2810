@@ -15,7 +15,9 @@
 - 🔭 I’m currently working on [SaicoMC](https://discord.gg/Ad2uDSp).
 - 🌱 I’m currently learning more about Hypertext Preprocessor.
 - 😇 I'm gonna do what my father's dream for us
-- ⚡ Fun fact: I spend 7 weeks to sleep idk how
+- ❤ "He said: go adventure far beyond these shores
+Don't forsake this life of yours
+I'll guide you home no matter where you are"
 
 [![GitHub Clarence2810](https://img.shields.io/github/followers/Clarence2810?label=follow&style=social)](https://github.com/Clarence2810)
 [![Discord Server](https://img.shields.io/badge/SaicoMC-2648ff?style=flat-square&logo=google-discord)](https://discord.gg/Ad2uDSp)
